@@ -104,4 +104,4 @@ This computational investigation validates the modern scientific consensus estab
 My counterfactual simulation (Scenario E) proves with a high degree of confidence that had the machine been designed to safe engineering standards, the operators' final action would have saved the reactor. Instead, they were betrayed. The ultimate cause of the Chernobyl disaster was not error, but a fatal and unforgivable betrayal by design.
 
 ## Acknowledgments
-This project was conceived and developed by myself, **Aksharma127**. Throughout the process, I collaborated extensively with Google's AI assistant, **Gemini**, which served as a valuable research partner for structuring the simulation code, debugging, analyzing results, and assisting in the formal write-up of this report.
+This project was conceived and developed by myself, **Akshit Sharma**. Throughout the process, I collaborated extensively with Google's AI assistant, **Gemini**, which served as a valuable research partner for structuring, and assisting in the formal write-up of this report.
