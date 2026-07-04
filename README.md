@@ -5,7 +5,7 @@
 
 ### Author: Aksharma127
 ### Date: October 3, 2025
-
+#See details in this website:[WebSite] (https://splendorous-dusk-9e6821.netlify.app/)
 ## Abstract
 
 *The catastrophic accident at Unit 4 of the Chernobyl Nuclear Power Plant on April 26, 1986, was the culmination of fundamental design choices rooted in a Soviet engineering philosophy that created a machine with inherent and unforgiving instabilities. This paper provides a critical review of the causal physics and details the development of a point-kinetics simulation model in the Julia programming language to computationally reconstruct the final seconds of the power excursion. By modeling the core's neutronics, thermal-hydraulics, and isotope poisoning under the specific conditions of the safety test, this research quantifies the impact of the RBMK-1000's primary design flaws: the positive void coefficient and the "positive scram" effect of the control rods. The simulation successfully reproduces the prompt criticality event and, through a definitive counterfactual experiment, demonstrates that the disaster would have been averted had the control rods been designed without their fatal graphite tips. This research concludes that the accident was not a simple matter of operator error but was fundamentally a systemic failure—a betrayal by a design that was dangerously unstable and counter-intuitive, and which turned the operators' final, logical attempt to ensure safety into the trigger for the catastrophe.*
