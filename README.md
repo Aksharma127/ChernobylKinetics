@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-Julia-9558B2.svg)](https://julialang.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# See details in this website:[WebSite] (https://splendorous-dusk-9e6821.netlify.app/)
+# See details in this website: [WebSite](https://splendorous-dusk-9e6821.netlify.app/)
 ### Author: Aksharma127
 ### Date: October 3, 2025
 ## Abstract
